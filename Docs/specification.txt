@@ -3,3 +3,7 @@
 3000¸UÁû
 
 ERC20
+
+initialSupply:	30000000
+tokenName:	CubeCore
+tokenSymbol:	Cube
