@@ -7,3 +7,7 @@ ERC20
 initialSupply:	30000000
 tokenName:	CubeCore
 tokenSymbol:	Cube
+
+release info
+Rev.5
+0.5.5+commit.47a71e8f.Emscripten.clang
